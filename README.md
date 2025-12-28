@@ -1,0 +1,15 @@
+## Hi there 👋
+#<!--
+**pNm193/pNm193** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ... life.
+- 🌱 I’m currently learning ...a mixed variety of knowledge.  
+- 👯 I’m looking to collaborate on ... collaborative work.
+- 🤔 I’m looking for help with ... representation.
+- 💬 Ask me about ... anything not related to my personal life. 😀
+- 📫 How to reach me: ... message, e-mail, mail.
+- 😄 Pronouns: ... female/male
+- ⚡ Fun fact: ... I have been electrocuted by 220 voltage dryer outlet from exposed wire. 
+-->
